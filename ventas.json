@@ -1,0 +1,200 @@
+{
+    "ventas":[
+        {
+            "id": 1,
+            "fecha": "01/04/2023",
+            "cliente": "Arturo Cruz Villegas",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 4,
+                    "costo": 180,
+                    "importe": 720
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 2,
+                    "costo": 210.5,
+                    "importe": 421
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 2,
+                    "costo": 195,
+                    "importe": 390
+                }
+            ],
+            "subtotal": 1531,
+            "iva": 244.96,
+            "total": 1775.96
+        },
+        {
+            "id": 2,
+            "fecha": "10/04/2023",
+            "cliente": "Jorge Sandoval Ramirez",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 1,
+                    "costo": 180,
+                    "importe": 180
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 2,
+                    "costo": 210.5,
+                    "importe": 421
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 1,
+                    "costo": 195,
+                    "importe": 195
+                }
+            ],
+            "subtotal": 796,
+            "iva": 127.36,
+            "total": 923.36
+        },
+        {
+            "id": 3,
+            "fecha": "23/04/2023",
+            "cliente": "Andrea Hinojosa Vazquez",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 1,
+                    "costo": 180,
+                    "importe": 180
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 1,
+                    "costo": 210.5,
+                    "importe": 210.5
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 1,
+                    "costo": 195,
+                    "importe": 195
+                }
+            ],
+            "subtotal": 585.5,
+            "iva": 93.68,
+            "total": 679.18
+        },
+        {
+            "id": 4,
+            "fecha": "29/04/2023",
+            "cliente": "Liliana Lopez Gonzalez",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 1,
+                    "costo": 180,
+                    "importe": 180
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 1,
+                    "costo": 210.5,
+                    "importe": 210.5
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 1,
+                    "costo": 195,
+                    "importe": 195
+                }
+            ],
+            "subtotal": 585.5,
+            "iva": 93.68,
+            "total": 679.18
+        },
+        {
+            "id": 5,
+            "fecha": "01/05/2023",
+            "cliente": "Ramon Ayala Dominguez",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 1,
+                    "costo": 180,
+                    "importe": 180
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 1,
+                    "costo": 210.5,
+                    "importe": 210.5
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 1,
+                    "costo": 195,
+                    "importe": 195
+                }
+            ],
+            "subtotal": 585.5,
+            "iva": 93.68,
+            "total": 679.18
+        },
+        {
+            "id": 6,
+            "fecha": "15/05/2023",
+            "cliente": "Felix Reyes Torrena",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 10,
+                    "costo": 180,
+                    "importe": 1800
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 10,
+                    "costo": 210.5,
+                    "importe": 2105
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 10,
+                    "costo": 195,
+                    "importe": 1950
+                }
+            ],
+            "subtotal": 5855,
+            "iva": 936.8,
+            "total": 6791.8
+        },
+        {
+            "id": 7,
+            "fecha": "03/06/2023",
+            "cliente": "Juan Flores Perez",
+            "productos": [
+                {
+                    "nombre": "Gorra deportiva",
+                    "cantidad": 1,
+                    "costo": 180,
+                    "importe": 180
+                },
+                {
+                    "nombre": "Pants deportivo",
+                    "cantidad": 1,
+                    "costo": 210.5,
+                    "importe": 210.5
+                },
+                {
+                    "nombre": "Sudadera deportiva",
+                    "cantidad": 1,
+                    "costo": 195,
+                    "importe": 195
+                }
+            ],
+            "subtotal": 585.5,
+            "iva": 93.68,
+            "total": 679.18
+        }
+    ]
+}
